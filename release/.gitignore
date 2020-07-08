@@ -1,0 +1,21 @@
+##############################
+## Folders                  ##
+##############################
+
+dist/
+build/
+regular/
+
+##############################
+## Netbeans conf            ##
+##############################
+
+*.pyc
+*.cpython-36.pyc
+*.dwl
+*.dwl2
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
